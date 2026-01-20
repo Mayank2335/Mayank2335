@@ -4,59 +4,41 @@
 **Mayank2335/Mayank2335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 🔭 I’m currently working on
-
-MERN stack projects
-
-Building real-world web apps with React & Node.js
+- MERN stack projects
+- Building real-world web apps with React & Node.js
 
 🌱 I’m currently learning
-
-Data Structures & Algorithms
-
-Advanced JavaScript, React, and MongoDB
-
-Backend development & API design
+- Data Structures & Algorithms
+- Advanced JavaScript, React, and MongoDB
+- Backend development & API design
 
 👯 I’m looking to collaborate on
-
-Open-source web development projects
-
-Beginner-friendly MERN stack projects
-
-Hackathons and tech communities
+- Open-source web development projects
+- Beginner-friendly MERN stack projects
+- Hackathons and tech communities
 
 🤔 I’m looking for help with
-
-Optimizing full-stack applications
-
-Writing clean, scalable backend code
-
-Open-source contribution best practices
+- Optimizing full-stack applications
+- Writing clean, scalable backend code
+- Open-source contribution best practices
 
 💬 Ask me about
-
-Java, JavaScript, React
-
-MERN Stack basics
-
-UI/UX for developers
-
-College tech life & project planning
+- Java, JavaScript, React
+- MERN Stack basics
+- UI/UX for developers
+- College tech life & project planning
 
 📫 How to reach me:
-
-Email: sharmayank2056@gmail.com
-
-LinkedIn: www.linkedin.com/in/mayank-sharma-cu2028
+- Email: sharmayank2056@gmail.com
+- LinkedIn: www.linkedin.com/in/mayank-sharma-cu2028
 
 😄 Pronouns:
-
-He / Him
+- He / Him
 
 ⚡ Fun fact:
-
-I enjoy turning ideas into working projects and debugging feels like solving puzzles 🧩
+- I enjoy turning ideas into working projects and debugging feels like solving puzzles 🧩
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
