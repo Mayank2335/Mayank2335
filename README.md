@@ -1,10 +1,6 @@
 ## Hi there 👋
  <img style="border-radius: 10px;" src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
 
-**Mayank2335/Mayank2335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🔭 I’m currently working on
 - MERN stack projects
 - Building real-world web apps with React & Node.js
